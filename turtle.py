@@ -1,3 +1,4 @@
+#8번
 import turtle
 t = turtle.Turtle()
 t.shape("turtle")
